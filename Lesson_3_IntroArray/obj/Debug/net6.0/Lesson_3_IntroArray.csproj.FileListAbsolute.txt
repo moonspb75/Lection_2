@@ -1,0 +1,15 @@
+/Users/yanina/Lection_2/Lesson_3_IntroArray/bin/Debug/net6.0/Lesson_3_IntroArray
+/Users/yanina/Lection_2/Lesson_3_IntroArray/bin/Debug/net6.0/Lesson_3_IntroArray.deps.json
+/Users/yanina/Lection_2/Lesson_3_IntroArray/bin/Debug/net6.0/Lesson_3_IntroArray.runtimeconfig.json
+/Users/yanina/Lection_2/Lesson_3_IntroArray/bin/Debug/net6.0/Lesson_3_IntroArray.dll
+/Users/yanina/Lection_2/Lesson_3_IntroArray/bin/Debug/net6.0/Lesson_3_IntroArray.pdb
+/Users/yanina/Lection_2/Lesson_3_IntroArray/obj/Debug/net6.0/Lesson_3_IntroArray.csproj.AssemblyReference.cache
+/Users/yanina/Lection_2/Lesson_3_IntroArray/obj/Debug/net6.0/Lesson_3_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanina/Lection_2/Lesson_3_IntroArray/obj/Debug/net6.0/Lesson_3_IntroArray.AssemblyInfoInputs.cache
+/Users/yanina/Lection_2/Lesson_3_IntroArray/obj/Debug/net6.0/Lesson_3_IntroArray.AssemblyInfo.cs
+/Users/yanina/Lection_2/Lesson_3_IntroArray/obj/Debug/net6.0/Lesson_3_IntroArray.csproj.CoreCompileInputs.cache
+/Users/yanina/Lection_2/Lesson_3_IntroArray/obj/Debug/net6.0/Lesson_3_IntroArray.dll
+/Users/yanina/Lection_2/Lesson_3_IntroArray/obj/Debug/net6.0/refint/Lesson_3_IntroArray.dll
+/Users/yanina/Lection_2/Lesson_3_IntroArray/obj/Debug/net6.0/Lesson_3_IntroArray.pdb
+/Users/yanina/Lection_2/Lesson_3_IntroArray/obj/Debug/net6.0/Lesson_3_IntroArray.genruntimeconfig.cache
+/Users/yanina/Lection_2/Lesson_3_IntroArray/obj/Debug/net6.0/ref/Lesson_3_IntroArray.dll
